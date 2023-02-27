@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
-# test change
+# test change 2
 project(cmake_and_cuda LANGUAGES CXX C CUDA)
 include(CTest)
 include_directories(./include)
